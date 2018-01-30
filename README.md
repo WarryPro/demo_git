@@ -1,2 +1,3 @@
 # demo_git
-Une emo de Git
+Une demo de git
+
